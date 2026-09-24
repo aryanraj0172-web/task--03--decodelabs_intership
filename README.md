@@ -1,1 +1,1 @@
-# task--03--decodelabs_intership
+# task--03--decodelabs_internship
