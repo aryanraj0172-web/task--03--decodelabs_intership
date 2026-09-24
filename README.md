@@ -1,7 +1,9 @@
-# task--03--decodelabs_internship
 🛒 E-Commerce Data Analysis using SQL
+
 📌 Overview
+
 This project focuses on analyzing an E-Commerce Orders dataset using SQL to uncover insights related to sales, products, customers, revenue, order status, payment methods, coupons, and referral sources.
+
 📊 Dataset
 1,200 Orders
 14 Columns
@@ -11,6 +13,7 @@ This project focuses on analyzing an E-Commerce Orders dataset using SQL to unco
 5 Referral Sources
 Key Columns
 OrderID · Date · CustomerID · Product · Quantity · UnitPrice · PaymentMethod · OrderStatus · ItemsInCart · CouponCode · ReferralSource · TotalPrice
+
 🎯 Objectives
 Analyze total sales and revenue
 Identify top-performing products
@@ -26,6 +29,7 @@ MySQL
 SQL
 Microsoft Excel
 GitHub
+
 🔍 SQL Concepts Used
 SELECT
 WHERE
@@ -45,6 +49,7 @@ IS NULL
 IS NOT NULL
 LIMIT
 Date functions
+
 📈 Analysis Performed
 Sales Analysis
 Total orders
@@ -75,6 +80,7 @@ Time Analysis
 Yearly revenue
 Monthly revenue
 Yearly order volume
+
 💡 Key Insights
 The analysis helps answer important business questions such as:
 Which products generate the most revenue?
@@ -86,9 +92,10 @@ Which referral sources generate the most revenue?
 How are coupons being used?
 What are the highest-value orders?
 How does revenue change over time?
+
 🚀 Learning Outcomes
 Through this project, I developed practical experience in SQL-based data analysis, including data aggregation, filtering, grouping, sorting, customer analysis, sales analysis, and converting business questions into SQL queries.
-👨‍💻 Author
+
 Aryan kumar 
 Aspiring Data Analyst | SQL | Excel | Data Analytics
 ⭐ If you find this project useful, consider starring the repository.
