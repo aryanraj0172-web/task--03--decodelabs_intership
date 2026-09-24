@@ -96,6 +96,7 @@ How does revenue change over time?
 🚀 Learning Outcomes
 Through this project, I developed practical experience in SQL-based data analysis, including data aggregation, filtering, grouping, sorting, customer analysis, sales analysis, and converting business questions into SQL queries.
 
+Author🌄
 Aryan kumar 
 Aspiring Data Analyst | SQL | Excel | Data Analytics
 ⭐ If you find this project useful, consider starring the repository.
